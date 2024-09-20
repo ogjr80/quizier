@@ -1,0 +1,62 @@
+[
+    {
+      "question": "What is EOH' primary industry?",
+      "options": ["Manufacturing", "Information Technology", "Healthcare", "Finance"],
+      "correctAnswer": "Information Technology"
+    },
+    {
+      "question": "How many core values are listed for EOH?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Which of the following is NOT one of EOH's core values?",
+      "options": ["Innovation", "Excellence", "Profit-first", "Integrity"],
+      "correctAnswer": "Profit-first"
+    },
+    {
+      "question": "What does EOH believe is the key to creating the best solutions?",
+      "options": ["Competition", "Collaboration", "Outsourcing", "Automation"],
+      "correctAnswer": "Collaboration"
+    },
+    {
+      "question": "According to the document, what is at the heart of EOH's business?",
+      "options": ["Technology", "Innovation", "Integrity", "Profit"],
+      "correctAnswer": "Integrity"
+    },
+    {
+      "question": "How does EOH approach client relationships?",
+      "options": ["Short-term focus", "Customer-centric", "Profit-driven", "Technology-first"],
+      "correctAnswer": "Customer-centric"
+    },
+    {
+      "question": "What does EOH do to empower its employees?",
+      "options": [
+        "Micromanage their work",
+        "Limit decision-making",
+        "Encourage ownership of work",
+        "Focus solely on client needs"
+      ],
+      "correctAnswer": "Encourage ownership of work"
+    },
+    {
+      "question": "Which of the following best describes EOH's commitment to sustainability?",
+      "options": [
+        "Focused solely on profit",
+        "Ignoring environmental concerns",
+        "Dedicated to sustainable practices",
+        "Neutral stance on sustainability"
+      ],
+      "correctAnswer": "Dedicated to sustainable practices"
+    },
+    {
+      "question": "What does EOH strive for in everything they do?",
+      "options": ["Mediocrity", "Cost-cutting", "Excellence", "Rapid growth"],
+      "correctAnswer": "Excellence"
+    },
+    {
+      "question": "Where is EOH based?",
+      "options": ["United States", "United Kingdom", "South Africa", "Australia"],
+      "correctAnswer": "South Africa"
+    }
+  ]
