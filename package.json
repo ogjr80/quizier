@@ -12,7 +12,8 @@
     "db:mg":"npx prisma migrate dev",
     "db:gen":"npx prisma generate",
     "db:seed":"npx prisma db seed",
-    "mg":"pnpm db:mg && pnpm db:gen"
+    "mg":"pnpm db:mg && pnpm db:gen",
+    "postinstall": "npx prisma generate"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.4.2",
